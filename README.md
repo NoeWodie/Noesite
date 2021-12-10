@@ -1,2 +1,9 @@
 # Noesite
 site html
+Mon site a été réalisé en HTML et CSS, je n'ai pas utilisé de Javascript. Il est résponsive, il s'adapte aux changements de taille de la page
+Pour m'aider j'ai eu recours à des librairies sur internet. J'ai dabord utilisé Bootsrap cependant le fait que je ne puisse pas changer directement le css moi même m'a dérangé, jai donc utilisé d'autres librairies ne passant pas par des liens pour le html et css. J'ai donc pu adapter la présentation de mon site pour qu'il réponde exactement à mes attentes. J'ai utilisé un backgroug-image pour le corps du site afin qu'il soit plus présentable qu'un site avec une couleure unie dans le fond.
+Pour le haut de la page j'ai réalisé l'accueil du site comme demandé sur le cahier des charges avec une photo ronde. Les liens Accueil, Contact, Carroussel et Projet mennent directement à la partie de la page en question, grâce à des séctions portant les noms indiqués dans les liens.
+Pour mon carroussel photo j'ai eu recours à une librairie en ligne. J'ai utilisé un système permettant de faire défiler les photos du carroussel en cliquant sur leur mignature. J'ai personnalisé le CSS correspondant au carroussel afin qu'il soit adapté au design de mon site.
+Pour la présentation j'ai utilisé des cartes qui lorsque l'on met la souris dessus, affiche le contenu du texte. J'ai également modifié le css pour améliorer le design et adapter les couleurs à celles du reste du site. Il présente des montres rolex, avec leur prix, leur nom ainsi que leurs déscription, ce qui correspond au thème du site.
+Pour le formulaire de contact il est assez simple, dans les couleurs du site. 
+Concernant les icones de réseaux sociaux j'ai utilisés de petites images représentant les icones de Facebook, Instagram, et Youtube pour une video sur le thème de rolex.J'ai associé un lien avec href à chaque image pour qu'elle mène au réseau indiqué.
